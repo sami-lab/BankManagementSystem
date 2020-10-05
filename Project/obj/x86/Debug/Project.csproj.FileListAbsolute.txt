@@ -1,0 +1,239 @@
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\RAMBO\Documents\Visual Studio 2010\Projects\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.Form2.resources
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.Form3.resources
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.Form4.resources
+C:\Users\RAMBO\Desktop\Adil\Project\Project\Project\obj\x86\Debug\Project.Form5.resources
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.exe
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.pdb
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\bin\Debug\Project.exe
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\bin\Debug\Project.pdb
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.Form1.resources
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.Form2.resources
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.Form3.resources
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.Form4.resources
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.Form5.resources
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BSCS\2nd Smster\Adil\Project\Project\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\XeeOff\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\XeeOff\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.Form2.resources
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.Form3.resources
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.Form4.resources
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.Form5.resources
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\XeeOff\Desktop\Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\RAMBO\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.Form2.resources
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.Form3.resources
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.Form4.resources
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.Form5.resources
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RAMBO\Desktop\Project\Project\obj\x86\Debug\Project.Form6.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.exe
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.pdb
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\bin\Debug\Project.exe
+E:\BSCS\2nd Smster\Adil\Banking Management System\Project\bin\Debug\Project.pdb
+C:\Users\HAMNA\Downloads\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+C:\Users\HAMNA\Downloads\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\bin\Debug\Project.exe
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\bin\Debug\Project.pdb
+C:\Users\RAMBO\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\bin\Debug\Project.exe
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\bin\Debug\Project.pdb
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BSCS\2nd Smster\Games\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.exe
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.pdb
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form8.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+E:\BSCS\2nd Smster\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.exe
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.pdb
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form12.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form8.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form9.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.exe
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.pdb
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form10.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form11.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form12.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form8.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form9.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+E:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.exe
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.pdb
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form10.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form11.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form12.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form8.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Form9.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\Rambo\Desktop\Banking Management System\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Rambo\Desktop\Banking Management System\Project\bin\Debug\Project.exe
+C:\Users\Rambo\Desktop\Banking Management System\Project\bin\Debug\Project.pdb
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form10.resources
+F:\BSCS\Projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form11.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.exe
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\bin\Debug\Project.exe
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\bin\Debug\Project.pdb
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form10.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form11.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form12.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form8.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Form9.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\jawwad\Downloads\Banking-Management-System\Banking Management System\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\bin\Debug\Project.exe
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form10.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form11.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form12.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form8.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form9.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Star Computer\Desktop\Banking Management System\Banking Management System\Project\bin\Debug\Project.pdb
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.exe
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\bin\Debug\Project.pdb
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.csprojAssemblyReference.cache
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form1.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form10.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form11.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form12.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form2.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form3.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form4.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form5.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form6.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form7.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form8.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Form9.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.Properties.Resources.resources
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.csproj.GenerateResource.cache
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.exe
+D:\Files and Softwares\backup\C# Working\projects\Banking Management System\Banking Management System\Project\obj\x86\Debug\Project.pdb
